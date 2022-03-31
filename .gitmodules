@@ -1,0 +1,4 @@
+[submodule ".well-known/openpgpkey"]
+	path = .well-known/openpgpkey
+	url = https://github.com/drastrom/openpgpkey.git
+	branch = master
